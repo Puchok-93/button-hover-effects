@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "Helvetica";
+    src: url("../fonts/Helvetica/Helvetica-Light.woff2") format("woff2");
+    src: url("../fonts/Helvetica/Helvetica-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "Helvetica";
+    src: url("../fonts/Helvetica/Helvetica-Regular.woff2") format("woff2");
+    src: url("../fonts/Helvetica/Helvetica-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Manrope";
+    src: url("../fonts/Manrope/Manrope-Light.woff2") format("woff2");
+    src: url("../fonts/Manrope/Manrope-Light.woff") format("woff");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Manrope";
+    src: url("../fonts/Manrope/Manrope-Regular.woff2") format("woff2");
+    src: url("../fonts/Manrope/Manrope-Regular.woff") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Manrope";
+    src: url("../fonts/Manrope/Manrope-Medium.woff2") format("woff2");
+    src: url("../fonts/Manrope/Manrope-Medium.woff") format("woff");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Montserrat";
+    src: url("../fonts/Montserrat/Montserrat-Medium-Italic.woff2") format("woff2");
+    src: url("../fonts/Montserrat/Montserrat-Medium-Italic.woff") format("woff");
+    font-weight: 500;
+    font-style: italic;
+}
